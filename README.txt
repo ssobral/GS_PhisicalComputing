@@ -36,6 +36,12 @@ Ambos serão enviados juntos do código fonte e README
 
 ---
 
+## Repositório GITHUB
+
+→ https://github.com/ssobral/GS_PhisicalComputing
+
+---
+
 ## Integrantes
 
 Lucas Sobral Roxo (RM98188)
